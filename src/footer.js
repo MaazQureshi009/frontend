@@ -27,7 +27,7 @@ function footer() {
     </section>
   </div>
 
-  <div className="text-center p-4" style={{background: "rgba(0, 0, 0, 0.2)"}}>
+  <div className="text-center p-5" style={{background: "rgba(0, 0, 0, 0.2)"}}>
     {/* © 2022 Copyright: */}
     <a className="text-black" href='/'>MagicCorner.com</a>
   </div>

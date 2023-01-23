@@ -28,4 +28,3 @@ function icons() {
 }
 
 export default icons
-// <a href="https://www.flaticon.com/free-icons/whatsapp" title="whatsapp icons">Whatsapp icons created by Fathema Khanom - Flaticon</a>

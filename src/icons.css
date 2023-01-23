@@ -5,7 +5,9 @@
     flex-direction: column;
     margin-right: 10px;
     float: right;
-    margin-top: 15%;
+    margin-top: 10%;
+    position: sticky;
+    top: 10%;
 }
 
 .whatsapp_float img {
